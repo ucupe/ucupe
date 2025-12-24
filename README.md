@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Ucupe
 
-<!--
-**ucupe/ucupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Web Developer**  
+🚀 Fokus pada pengembangan aplikasi web yang scalable, clean, dan maintainable
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Backend
+- 🐘 **PHP** (Native)
+- 🔥 **Laravel**
+- ⚡ **CodeIgniter (CI3 / CI4)**
+- 🟢 **Node.js**
+
+### Frontend
+- ⚛️ **Next.js**
+- 📜 **JavaScript (ES6+)**
+- 🎨 **Tailwind CSS**
+- 🅱️ **Bootstrap**
+
+### Tools & Others
+- REST API
+- MySQL / PostgreSQL
+- Git & GitHub
+- Linux Server (Ubuntu / CentOS)
+- Nginx / Apache
+
+---
+
+## 📌 What I Do
+- 🔧 Build RESTful APIs with Laravel & CodeIgniter
+- 🧩 Develop modern web apps using Next.js
+- 🎯 Create responsive UI with Tailwind & Bootstrap
+- 🔐 Authentication & Role Management
+- 🔄 Real-time apps (WebSocket / Broadcasting)
+- 📊 CRUD, Workflow, Approval System
+
+---
+
+## 📂 Featured Projects
+- 🏥 **Healthcare & Survey System**
+- 📋 **Audit Management System (PKA, KKA, TL)**
+- 🧾 **Patient Queue & Call System (Real-time)**
+- 💬 **Comment & Chat System**
+
+> *Some repositories are private due to client projects.*
+
+---
+
+## 📫 Contact Me
+- 🌐 GitHub: https://github.com/ucupe
+
+---
+
+⭐ *Feel free to explore my repositories and give a star if you find them useful!*
