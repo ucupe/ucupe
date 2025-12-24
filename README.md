@@ -15,6 +15,7 @@
 
 ### Frontend
 - ⚛️ **Next.js**
+- ⚛️ **Vue.js**
 - 📜 **JavaScript (ES6+)**
 - 🎨 **Tailwind CSS**
 - 🅱️ **Bootstrap**
