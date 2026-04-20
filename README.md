@@ -12,6 +12,8 @@
 - 🔥 **Laravel**
 - ⚡ **CodeIgniter (CI3 / CI4)**
 - 🟢 **Node.js**
+- 🟢 **ExpresJs**
+- 🟢 **NestJs**
 
 ### Frontend
 - ⚛️ **Next.js**
