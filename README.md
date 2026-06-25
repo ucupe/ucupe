@@ -18,6 +18,7 @@
 ### Frontend
 - ⚛️ **Next.js**
 - ⚛️ **Vue.js**
+- ⚛️ **Svelte + KIT**
 - 📜 **JavaScript (ES6+)**
 - 🎨 **Tailwind CSS**
 - 🅱️ **Bootstrap**
